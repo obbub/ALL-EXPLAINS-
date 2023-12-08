@@ -1,0 +1,25 @@
+k8s exercises:
+
+ self assessment
+ cluster
+ pod
+ deployment
+ statefulset
+ service
+ ingress
+ replicaset
+ storage
+ network policy
+ configuration file
+ etcd
+ namespace
+ operator
+ secrets
+ configmap
+ volume
+ access contronl
+ job/cronjob
+ misc
+ gatekeeper
+ helm
+ service mesh
